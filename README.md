@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karn</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
-<img align="right" alt="coding" width="400" src="https://giphy.com/explore/coding">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 <p align="left"> <a href="https://twitter.com/karn_911" target="blank"><img src="https://img.shields.io/twitter/follow/karn_911?logo=twitter&style=for-the-badge" alt="karn_911" /></a> </p>
