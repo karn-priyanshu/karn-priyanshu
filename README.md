@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Karn</h1>
-<h3 align="center">A passionate developer from Nepal</h3>
+<h3 align="center">Algorithm Alchemist | Crafting Magic with Coding</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
 
 <p align="left"> <a href="https://twitter.com/karn_911" target="blank"><img src="https://img.shields.io/twitter/follow/karn_911?logo=twitter&style=for-the-badge" alt="karn_911" /></a> </p>
 
@@ -13,15 +14,11 @@
 
 - 📝 I regularly write articles on [https://medium.com/@karn911](https://medium.com/@karn911)
 
-- 💬 Ask me about **React, Data Structure, Java**
+- 💬 Ask me about **Data Structure & Algoritham**
 
 - 📫 How to reach me **priyanshu.karn911@gmail.com**
 
-- ⚡ Fun fact **I always wanted to make movies**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ⚡ Fun fact **I always wanted to make thriller movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
