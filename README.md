@@ -15,11 +15,6 @@
   <img src="https://cdn.dribbble.com/users/1732368/screenshots/6553870/ai.gif" width="500" alt="Algorithm Alchemist animation"/>
 </p>
 
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Nob3o3cXd3aHdzbW9oYzVneGdwZnhybnllZ2g0eHl3aGNjd2x4eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYx2l7H0C3Nsh2I/giphy.gif" width="480" alt="Neon Alchemist animation"/>
-</p>
-
-
 ---
 
 ### 🧩 About Me  
