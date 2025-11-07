@@ -43,16 +43,12 @@
 
 ---
 
-<h3 align="center">📊 GitHub Analytics</h3>
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=karn-priyanshu&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-streak-stats.vercel.app/?user=karn-priyanshu&theme=radical&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/karn-priyanshu?style=for-the-badge&logo=github&color=blue" />
+  <img src="https://img.shields.io/github/stars/karn-priyanshu?style=for-the-badge&logo=github&color=yellow" />
+  <img src="https://komarev.com/ghpvc/?username=karn-priyanshu&style=for-the-badge&color=brightgreen" />
 </p>
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karn-priyanshu&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 ---
 
