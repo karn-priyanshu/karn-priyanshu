@@ -4,17 +4,16 @@
 <h3 align="center">Crafting Magic with Python, Machine Learning & Imagination 🧠🐍</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Hello+World!+I'm+Karn.;Turning+algorithms+into+art.;Exploring+AI,+Vision,+and+Parallel+Computing.;Welcome+to+my+realm+of+code+and+creativity." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Hello+World!+I'm+prisansu +karn.;Turning+algorithms+into+art.;Exploring+AI,+Vision,+and+Parallel+Computing.;Welcome+to+my+realm+of+code+and+creativity." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/720825/screenshots/4200014/ai.gif" width="430" alt="AI Animation">
+  <img src="https://cdn.dribbble.com/users/720825/screenshots/4200014/ai.gif" width="450" alt="AI Animation"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/karn-priyanshu/assets/blob/main/algo-alchemist.gif?raw=true" width="500" alt="Algorithm Alchemist animation"/>
+  <img src="https://cdn.dribbble.com/users/1732368/screenshots/6553870/ai.gif" width="500" alt="Algorithm Alchemist animation"/>
 </p>
-
 
 ---
 
@@ -65,7 +64,6 @@
   <img src="https://img.shields.io/github/stars/karn-priyanshu?style=for-the-badge&logo=github&color=yellow" />
   <img src="https://komarev.com/ghpvc/?username=karn-priyanshu&style=for-the-badge&color=brightgreen" />
 </p>
-
 
 ---
 
