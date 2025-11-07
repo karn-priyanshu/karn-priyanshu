@@ -4,7 +4,7 @@
 <h3 align="center">Crafting Magic with Python, Machine Learning & Imagination 🧠🐍</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Hello+World!+I'm+prisansu +karn.;Turning+algorithms+into+art.;Exploring+AI,+Vision,+and+Parallel+Computing.;Welcome+to+my+realm+of+code+and+creativity." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Hello+World!+I'm+Karn.;Turning+algorithms+into+art.;Exploring+AI,+Vision,+and+Parallel+Computing.;Welcome+to+my+realm+of+code+and+creativity." alt="Typing SVG" />
 </p>
 
 <p align="center">
