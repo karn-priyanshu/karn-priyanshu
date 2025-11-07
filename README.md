@@ -43,9 +43,13 @@
 
 ---
 
-<h3 align="center">📈 GitHub Stats</h3>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karn-priyanshu&theme=radical" alt="karn-priyanshu" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karn-priyanshu&show_icons=true&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=karn-priyanshu&theme=radical&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karn-priyanshu&layout=compact&theme=radical&hide_border=true" height="160" />
 </p>
 
 ---
