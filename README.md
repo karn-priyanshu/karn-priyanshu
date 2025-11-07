@@ -11,6 +11,11 @@
   <img src="https://cdn.dribbble.com/users/720825/screenshots/4200014/ai.gif" width="430" alt="AI Animation">
 </p>
 
+<p align="center">
+  <img src="https://github.com/karn-priyanshu/assets/blob/main/algo-alchemist.gif?raw=true" width="500" alt="Algorithm Alchemist animation"/>
+</p>
+
+
 ---
 
 ### 🧩 About Me  
