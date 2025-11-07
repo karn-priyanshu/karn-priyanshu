@@ -4,7 +4,7 @@
 <h3 align="center">Crafting Magic with Python, Machine Learning & Imagination 🧠🐍</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Hello+World!+I'm+Karn.;Turning+algorithms+into+art.;Exploring+AI,+Vision,+and+Parallel+Computing.;Welcome+to+my+realm+of+code+and+creativity." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Hello+World!+I'm+Priansu.;Turning+algorithms+into+art.;Exploring+AI,+Vision,+and+Parallel+Computing.;Welcome+to+my+realm+of+code+and+creativity." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 <a href="https://linkedin.com/in/priyanshu-karn" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="35"/></a>
 <a href="https://www.instagram.com/mercurial_karn__/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="35"/></a>
 <a href="https://www.kaggle.com/karnpriyanshu" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" height="35"/></a>
-<a href="https://www.hackerrank.com/karn911" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" height="35"/></a>
+
 <a href="https://www.leetcode.com/karn-priyanshu" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="35"/></a>
 </p>
 
