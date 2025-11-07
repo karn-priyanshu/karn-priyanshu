@@ -43,11 +43,21 @@
 
 ---
 
+<h3 align="center">📈 GitHub Overview</h3>
+
 <p align="center">
-  <img src="https://img.shields.io/github/followers/karn-priyanshu?style=for-the-badge&logo=github&color=blue" />
-  <img src="https://img.shields.io/github/stars/karn-priyanshu?style=for-the-badge&logo=github&color=yellow" />
-  <img src="https://komarev.com/ghpvc/?username=karn-priyanshu&style=for-the-badge&color=brightgreen" />
+  <a href="https://github.com/karn-priyanshu">
+    <img src="https://github-readme-stats.vercel.app/api?username=karn-priyanshu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  </a>
+  <a href="https://github.com/karn-priyanshu">
+    <img src="https://github-readme-streak-stats.vercel.app/?user=karn-priyanshu&theme=tokyonight&hide_border=true" height="165"/>
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karn-priyanshu&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
 
 
 ---
