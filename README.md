@@ -1,63 +1,65 @@
-<h1 align="center">Hi 👋, I'm Karn</h1>
-<h3 align="center">Algorithm Alchemist — Crafting Magic with Python 🪄🐍</h3>
+<!-- 🧙‍♂️ Algorithm Alchemist Header -->
 
-<img align="right" alt="coding" width="420" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">✨ Algorithm Alchemist ✨</h1>
+<h3 align="center">Crafting Magic with Python, Machine Learning & Imagination 🧠🐍</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Hello+World!+I'm+Karn.;Turning+algorithms+into+art.;Exploring+AI,+Vision,+and+Parallel+Computing.;Welcome+to+my+realm+of+code+and+creativity." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/720825/screenshots/4200014/ai.gif" width="430" alt="AI Animation">
+</p>
 
 ---
 
-- 🔭 Building **Multi-Crop Disease Detection** models using Deep Learning & Computer Vision  
-- 🧩 Exploring **Parallel Computing & High-Performance Python**  
-- 💬 Let’s talk **Python, Machine Learning, and AI System Design**  
+### 🧩 About Me  
+
+- 🔭 Currently building **Multi-Crop Disease Detection Models** using Deep Learning  
+- 🧮 Exploring **Parallel Computing Algorithms** for high-speed training  
+- 💬 I love discussing **Python, Machine Learning, and AI System Design**  
 - 📫 Reach me at **priyanshu.karn911@gmail.com**  
 - ⚡ Fun fact — *I always wanted to make thriller movies.*
 
 ---
 
-<h3 align="left">🌐 Connect with me</h3>
+### 🌐 Connect with Me  
+
 <p align="left">
-<a href="https://linkedin.com/in/priyanshu-karn" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="35" width="45" /></a>
-<a href="https://fb.com/pri.kayastha911" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="35" width="45" /></a>
-<a href="https://www.instagram.com/mercurial_karn__/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="35" width="45" /></a>
-<a href="https://www.kaggle.com/karnpriyanshu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" alt="kaggle" height="35" width="45" /></a>
-<a href="https://www.hackerrank.com/karn911" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="35" width="45" /></a>
-<a href="https://www.leetcode.com/karn-priyanshu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="35" width="45" /></a>
+<a href="https://linkedin.com/in/priyanshu-karn" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="35"/></a>
+<a href="https://www.instagram.com/mercurial_karn__/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="35"/></a>
+<a href="https://www.kaggle.com/karnpriyanshu" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" height="35"/></a>
+<a href="https://www.hackerrank.com/karn911" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" height="35"/></a>
+<a href="https://www.leetcode.com/karn-priyanshu" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="35"/></a>
 </p>
 
 ---
 
-<h3 align="left">🧠 Languages & Tools</h3>
-<p align="left">
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a>
-<a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/></a>
-<a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/></a>
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/></a>
-<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="45" height="45"/></a>
-<a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="45" height="45"/></a>
-<a href="https://jupyter.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="45" height="45"/></a>
-<a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="45" height="45"/></a>
-<a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="45" height="45"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/></a>
+### 🧠 Languages & Tools  
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="45"/>
 </p>
 
 ---
 
-<h3 align="center">📈 GitHub Overview</h3>
+### 🪄 GitHub Insights  
 
 <p align="center">
-  <a href="https://github.com/karn-priyanshu">
-    <img src="https://github-readme-stats.vercel.app/api?username=karn-priyanshu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  </a>
-  <a href="https://github.com/karn-priyanshu">
-    <img src="https://github-readme-streak-stats.vercel.app/?user=karn-priyanshu&theme=tokyonight&hide_border=true" height="165"/>
-  </a>
+  <img src="https://img.shields.io/github/followers/karn-priyanshu?style=for-the-badge&logo=github&color=blue" />
+  <img src="https://img.shields.io/github/stars/karn-priyanshu?style=for-the-badge&logo=github&color=yellow" />
+  <img src="https://komarev.com/ghpvc/?username=karn-priyanshu&style=for-the-badge&color=brightgreen" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karn-priyanshu&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
 
 
 ---
