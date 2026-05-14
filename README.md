@@ -31,9 +31,9 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/priyanshu-karn" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="35"/></a>
-<a href="https://www.instagram.com/mercurial_karn__/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="35"/></a>
+<a href="https://www.instagram.com/_priiansuu" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="35"/></a>
 <a href="https://www.kaggle.com/karnpriyanshu" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" height="35"/></a>
-<a href="https://www.leetcode.com/karn-priyanshu" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="35"/></a>
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="35"/></a>
 </p>
 
 ---
