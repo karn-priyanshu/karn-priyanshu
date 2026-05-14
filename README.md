@@ -1,23 +1,21 @@
-<!-- 🧙‍♂️ Algorithm Alchemist Header -->
-
-<h1 align="center">✨ Algorithm Alchemist ✨</h1>
-<h3 align="center">Crafting Magic with Python, Machine Learning & Imagination 🧠🐍</h3>
-
+# <p align="center">✨ ALGORITHM ALCHEMIST ✨</p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Hello+World!+I'm+Priansu.;Turning+algorithms+into+art.;Exploring+AI,+Vision,+and+Parallel+Computing.;Welcome+to+my+realm+of+code+and+creativity." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=9D50BB&center=true&vCenter=true&width=700&lines=MASTERING+MACHINE+LEARNING;CRAFTING+DIGITAL+MAGIC;NEURAL+NETWORK+ARCHITECT" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/720825/screenshots/4200014/ai.gif" width="450" alt="AI Animation"/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Deep%20Learning.gif" width="450" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1732368/screenshots/6553870/ai.gif" width="500" alt="Algorithm Alchemist animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Priyanshu.;Turning+algorithms+into+art.;Exploring+AI+and+Vision.;Welcome+to+my+realm." alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
+</p>
 
-### 🧩 About Me  
+🧩 About Me  
 
 - 🔭 Currently building **Multi-Crop Disease Detection Models** using Deep Learning  
 - 🧮 Exploring **Parallel Computing Algorithms** for high-speed training  
@@ -30,18 +28,12 @@
 ### 🌐 Connect with Me  
 
 <p align="left">
-  <a href="https://bsky.app/profile/sanjitapriansu.bsky.social" target="blank">
-    <img src="https://img.shields.io/badge/Bluesky-0085ff?style=flat-square&logo=bluesky&logoColor=white" height="35"/>
-  </a>
-  <a href="https://linkedin.com/in/priyanshu-karn" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="35"/>
-  </a>
-  <a href="https://www.instagram.com/_priiansuu" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="35"/>
-  </a>
-  <a href="https://www.kaggle.com/karnpriyanshu" target="blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" height="35"/>
-  </a>
+<a href="https://www.kaggle.com/karnpriyanshu" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="30"/></a>
+<a href="https://www.instagram.com/_priiansuu" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/></a>
+<a href="https://linkedin.com/in/priyanshu-karn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>
+<a href="https://bsky.app/profile/sanjitapriansu.bsky.social" target="_blank"><img src="https://img.shields.io/badge/Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" height="30"/></a>
+
+
 </p>
 
 ### 🧠 Languages & Tools  
