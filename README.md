@@ -33,6 +33,12 @@
 <a href="https://linkedin.com/in/priyanshu-karn" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="35"/></a>
 <a href="https://www.instagram.com/_priiansuu" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="35"/></a>
 <a href="https://www.kaggle.com/karnpriyanshu" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" height="35"/></a>
+<a href="https://bsky.app/profile/sanjitapriansu.bsky.social" target="_blank">
+  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/languages.svg" 
+       alt="Bluesky" 
+       style="background-color: #0085ff; border-radius: 4px; padding: 2px;" 
+       height="35"/>
+</a>
 </p>
 
 ---
